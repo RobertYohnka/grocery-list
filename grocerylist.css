@@ -1,0 +1,19 @@
+/* These are examples of style preferences set at the CSS level */
+section {
+  background-color: antiquewhite;
+  border: 3px solid black;
+  /* when I update the border...It works.  I haven't been able to get padding, margin, border to work though. */
+  padding: 150px grey;
+  margin: 50px antiquewhite;
+  display: inline-block;
+}
+img {
+  width: 80px;
+  height: 80px;
+  padding: 15px;
+  object-fit: fill;
+}
+h2 {
+  background-color: rgb(220, 153, 66);
+  width: 150px;
+  }
